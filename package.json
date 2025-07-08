@@ -1,0 +1,23 @@
+{
+  "name": "hola-react",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/nidhi14t/hola-react#readme",
+  "bugs": {
+    "url": "https://github.com/nidhi14t/hola-react/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nidhi14t/hola-react.git"
+  },
+  "license": "ISC",
+  "author": "Nidhi",
+  "type": "commonjs",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "parcel": "^2.15.4"
+  }
+}
